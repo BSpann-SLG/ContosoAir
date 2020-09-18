@@ -1,6 +1,7 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 [![Build Status](https://dev.azure.com/bspann/ContosoAir/_apis/build/status/BSpann-SLG.ContosoAir?branchName=master)](https://dev.azure.com/bspann/ContosoAir/_build/latest?definitionId=153&branchName=master)
+
+# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 # Microsoft.Github CI Demo
 
